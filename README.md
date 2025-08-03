@@ -11,8 +11,9 @@
 * **GUI内翻译:** 在背包、箱子、工作台等任何界面中，当你的鼠标指针悬停在一个物品上时，弹出的信息框(Tooltip)里会自动加入中文翻译。
 * **智能环境适应:**
     * **独立运行:** 在没有安装Jade Mod的情况下，本Mod会启用自带的HUD来显示所有信息。
-    * **与Jade共存:** 当检测到强大的 [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) Mod存在时，本Mod会自动禁用自己的HUD，以避免任何UI冲突。同时，它会通过精巧的方式，将自己的翻译功能**无缝集成**到Jade的用户界面中。
-
+    * **与Jade共存:** 当检测到 [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) Mod存在时，本Mod会自动禁用自己的HUD，以避免任何UI冲突。同时，它会通过精巧的方式，将自己的翻译功能**无缝集成**到Jade的用户界面中。
+![图片](https://github.com/ColdMoonBUG/PictureBed/raw/main/Hand.png)
+![图片](https://github.com/ColdMoonBUG/PictureBed/blob/main/GUI.png)
 ## ⚙️ 使用环境
 
 * **Minecraft版本:** `1.20.1`
@@ -27,7 +28,7 @@
 
 `TranslationTheItem` **不是，也永远不会是Jade的替代品。** 相反，我们是Jade的一个卑微的“学习伴侣”插件。Jade以其无与伦比的强大功能、稳定性和生态兼容性，早已成为现代Mod整合包中不可或缺的基石。
 
-我们深知自己的渺小，因此我们花费了大量的精力，不是去“替换”Jade，而是去“融入”它。我们最高级的特性（Mixin Hook），其唯一目的就是在不干扰Jade任何原生功能的前提下，将我们的翻译信息，小心翼翼地、无缝地呈现在它那精美专业的UI之中。
+我们花费了大量的精力，不是去“替换”Jade，而是去“融入”它。我们最高级的特性（Mixin Hook），其唯一目的就是在不干扰Jade任何原生功能的前提下，将我们的翻译信息，小心翼翼地、无缝地呈现在它那精美专业的UI之中。
 
 感谢Jade为社区提供了如此强大的平台。
 

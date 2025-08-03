@@ -23,6 +23,9 @@
 		],
 		"client": [
 			"top.lyhc.mcmod.TranslationTheItemClient"
+		],
+		"jade": [
+			"top.lyhc.mcmod.item.client.JadePlugin"
 		]
 	},
 	"mixins": [
@@ -35,6 +38,7 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"another-mod": "*",
+		"jade": ">=11.12.3"
 	}
 }
